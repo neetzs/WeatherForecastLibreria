@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeatherForecastLibreriaFINAL/1.0.0": {
+        "runtime": {
+          "WeatherForecastLibreriaFINAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecastLibreriaFINAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

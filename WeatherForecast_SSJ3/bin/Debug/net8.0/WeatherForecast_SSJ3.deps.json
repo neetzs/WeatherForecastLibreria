@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeatherForecast_SSJ3/1.0.0": {
+        "dependencies": {
+          "WeatherForecastLibreriaFINAL": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecast_SSJ3.dll": {}
+        }
+      },
+      "WeatherForecastLibreriaFINAL/1.0.0": {
+        "runtime": {
+          "WeatherForecastLibreriaFINAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecast_SSJ3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherForecastLibreriaFINAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

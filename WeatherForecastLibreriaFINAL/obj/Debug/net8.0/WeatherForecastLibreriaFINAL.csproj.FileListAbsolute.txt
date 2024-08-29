@@ -1,0 +1,11 @@
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\bin\Debug\net8.0\WeatherForecastLibreriaFINAL.deps.json
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\bin\Debug\net8.0\WeatherForecastLibreriaFINAL.dll
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\bin\Debug\net8.0\WeatherForecastLibreriaFINAL.pdb
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\WeatherForecastLibreriaFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\WeatherForecastLibreriaFINAL.AssemblyInfoInputs.cache
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\WeatherForecastLibreriaFINAL.AssemblyInfo.cs
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\WeatherForecastLibreriaFINAL.csproj.CoreCompileInputs.cache
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\WeatherForecastLibreriaFINAL.dll
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\refint\WeatherForecastLibreriaFINAL.dll
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\WeatherForecastLibreriaFINAL.pdb
+C:\Neetzs\Repos\WeatherForecastLibreriaFINAL\WeatherForecastLibreriaFINAL\obj\Debug\net8.0\ref\WeatherForecastLibreriaFINAL.dll

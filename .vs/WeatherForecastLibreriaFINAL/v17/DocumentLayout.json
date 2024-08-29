@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275B6E25-297F-4BC9-9E1C-5FA7C0396727}|WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecast_ssj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275B6E25-297F-4BC9-9E1C-5FA7C0396727}|WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj|solutionrelative:weatherforecast_ssj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\servicios\\estacionmetereologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\servicios\\estacionmetereologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\servicios\\calculotemperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\servicios\\calculotemperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\modelos\\registrotemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\modelos\\registrotemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\modelos\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\modelos\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\modelos\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\modelos\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B6E25-297F-4BC9-9E1C-5FA7C0396727}|WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecast_ssj3\\weatherforecast_ssj3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{275B6E25-297F-4BC9-9E1C-5FA7C0396727}|WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj|solutionrelative:weatherforecast_ssj3\\weatherforecast_ssj3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|c:\\neetzs\\repos\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal\\weatherforecastlibreriafinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{999EB2F8-1854-498B-8E6F-184E5AAC04B6}|WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj|solutionrelative:weatherforecastlibreriafinal\\weatherforecastlibreriafinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast_SSJ3.csproj",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj",
+              "RelativeDocumentMoniker": "WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj",
+              "RelativeToolTip": "WeatherForecast_SSJ3\\WeatherForecast_SSJ3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T21:18:13.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecast_SSJ3\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForecast_SSJ3\\Program.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecast_SSJ3\\Program.cs",
+              "RelativeToolTip": "WeatherForecast_SSJ3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:10:24.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstacionMetereologica.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Servicios\\EstacionMetereologica.cs",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\Servicios\\EstacionMetereologica.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Servicios\\EstacionMetereologica.cs",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\Servicios\\EstacionMetereologica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:30:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculoTemperaturas.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Servicios\\CalculoTemperaturas.cs",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\Servicios\\CalculoTemperaturas.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Servicios\\CalculoTemperaturas.cs",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\Servicios\\CalculoTemperaturas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:30:02.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroTemperatura.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\RegistroTemperatura.cs",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\Modelos\\RegistroTemperatura.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\RegistroTemperatura.cs",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\Modelos\\RegistroTemperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:29:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\Persona.cs",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\Modelos\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:26:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\Profesional.cs",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\Modelos\\Profesional.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\Profesional.cs",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\Modelos\\Profesional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:26:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pasante.cs",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\Pasante.cs",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\Modelos\\Pasante.cs",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\Modelos\\Pasante.cs",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\Modelos\\Pasante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:26:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastLibreriaFINAL.csproj",
+              "DocumentMoniker": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj",
+              "RelativeDocumentMoniker": "WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj",
+              "ToolTip": "C:\\Neetzs\\Repos\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj",
+              "RelativeToolTip": "WeatherForecastLibreriaFINAL\\WeatherForecastLibreriaFINAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T20:16:38.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
