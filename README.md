@@ -1,0 +1,2 @@
+El Trabajo esta subido como Libreria de Clases, dentro de la Misma Solucion hice un Proyecto de Consola donde hice algunas pruebas, primeramente habia hecho todo el trabajo directamente en un Proyecto de Consola y no me convencio mucho como quedo, asi que lo termine cambiando. 
+Al crear las Clases las Separe en MODELOS y SERVICIOS dentro de ellas estan las demas clases, en la carpeta "Modelos" estan las clases que representan datos, y en la de "Servicios" las que implementan mas la logica.
